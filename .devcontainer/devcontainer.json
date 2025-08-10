@@ -1,7 +1,8 @@
 {
   "name": "DSAR Lab 1 (Jupyter + Copilot)",
   "build": {
-    "dockerfile": "Dockerfile"
+    "dockerfile": "Dockerfile",
+    "context": ".."
   },
   "customizations": {
     "vscode": {

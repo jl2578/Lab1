@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+jupyter_cache/
+*.nbconvert.ipynb
+
+# OS
+.DS_Store
+
+# VS Code
+.vscode/
